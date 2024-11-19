@@ -1,0 +1,21 @@
+hr{
+    color: rgb(152, 148, 148);
+}
+div{
+    padding: 5px;
+    border-radius: 10%;
+    border: none;
+    margin: auto;
+}
+input{
+    padding: 5px;
+    border-radius: 10px;
+    border-color: gray;
+    border: none;
+    width: auto;
+    background-color: rgb(202, 195, 195);
+}
+::placeholder{
+    color: rgb(41, 37, 37);
+    font-family: Arial, Helvetica, sans-serif;
+}
