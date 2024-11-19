@@ -1,0 +1,13 @@
+body{
+    background-color: midnightblue;
+}
+h2{
+    color: white;
+}
+p{
+    font-size: x-large;
+    color: whitesmoke;
+}
+sup{
+    align-items: first baseline ;
+}
