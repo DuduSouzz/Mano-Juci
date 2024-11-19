@@ -1,0 +1,36 @@
+
+body{
+    background-color: rgb(130, 118, 118);
+}
+h2, p{
+    color: rgb(61, 13, 13);
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+table, td{
+    border-collapse: collapse;
+    border: 1px solid black;
+    margin: auto;
+}
+th{
+    font-weight: lighter;
+    color: rgba(255, 255, 255, 0.657);
+    background-color: rgb(88, 86, 86);
+    text-align: start;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.8em;
+    line-height: 1.0rem
+}
+td{
+    color: rgba(255, 255, 255, 0.665);
+    background-color: rgba(26, 24, 24, 0.754);
+    font-size: 75%;
+}
+table{
+    width: 50%;
+    height: 10%;
+}
+td, th, tr{
+    padding: 19px;
+    text-align:left;
+}

@@ -1,0 +1,20 @@
+body{
+    background-color: beige;
+}
+table{
+    margin: auto;
+    background-color: rgb(196, 196, 225);
+}
+table, td, tr, th{
+    border: 1px solid black;
+    padding: 0px;
+    font-size: larger;
+    text-align: center;
+}
+td, th{
+    text-align: center;
+    color: rgb(8, 73, 73);
+}
+table{
+    margin-top: 10%;
+}
