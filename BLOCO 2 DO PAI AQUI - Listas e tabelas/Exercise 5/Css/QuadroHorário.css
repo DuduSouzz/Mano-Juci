@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(209, 209, 196);
+}
+h3{
+    color: rgba(49, 104, 215, 0.849);
+    text-align: end;
+    margin-right: 25%;
+    margin-top: 10%;
+    font-size: 105;
+}
+table, tr, td{
+    margin: auto;
+    border-collapse: collapse;
+    border: 1px solid black;
+    padding: 8px;
+}
+table{
+    background-color: rgba(49, 104, 215, 0.849);
+}
+td{
+    background-color: white;
+    color: black;
+}
+td, th{
+    font-size: large;
+}
+th{
+    color: white;
+}
